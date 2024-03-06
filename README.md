@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ganeshsalunkhe1998@gmail.com**
 
-- ⚡ Fun fact **I got 7 CGPA in college.(Thala for a reason)**
+- ⚡ Fun fact **I got 7 CGPA in college (Thala for a reason)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
