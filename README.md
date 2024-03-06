@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Ganesh Salunkhe</h1>
+<h1 align="center">Hello there  🤝, I'm Ganesh Salunkhe</h1>
 <h3 align="center">A Full Stack  Web Developer  from India</h3>
 <h3 align="center">"From concept to deployment: Full stack proficiency in action."
 </h3>
