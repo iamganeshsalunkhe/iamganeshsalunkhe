@@ -3,7 +3,7 @@
 <h3 align="center">"From concept to deployment: Full stack proficiency in action."
 </h3>
 
-<img  align="right" width="400" height="275" src="https://dancosta-fed.github.io/dancostaportfolio/gif/Animation-02.gif" alt="gif">
+<img  align="right" width="200" height="275" src="https://dancosta-fed.github.io/dancostaportfolio/gif/Animation-02.gif" alt="gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu1498&label=Profile%20views&color=0e75b6&style=flat" alt="ganu1498" /> </p>
 
