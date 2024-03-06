@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React, Node, Express, MySQL**
 
-- 🌱 I’m currently learning **node,express, next.js**
+- 🌱 I’m currently learning **node,express, next.js, MongoDB**
 
 - 💬 Ask me about **js/react/node/express/mySQL**
 
