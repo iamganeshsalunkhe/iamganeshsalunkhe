@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **React, Node, Express, MySQL**
 
-- 🌱 I’m currently learning **node,express, next.js, MongoDB**
+- 🌱 I’m currently learning **Node,Express, Next.js, MongoDB**
 
-- 💬 Ask me about **js/react/node/express/mySQL**
+- 💬 Ask me about **JS/React/Node/Express/MySQL**
 
 - 📫 How to reach me **ganeshsalunkhe1998@gmail.com**
 
