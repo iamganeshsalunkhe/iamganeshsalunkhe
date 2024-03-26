@@ -1,3 +1,6 @@
+![logo](https://github.com/iamganeshsalunkhe/iamganeshsalunkhe/blob/main/WeB%20DEVELOPER.png)
+
+
 <h1 align="center">Hello my friend 🤝, I'm Ganesh Salunkhe</h1>
 <h3 align="center">A Full Stack  Web Developer  from India</h3>
 <h3 align="center">"From concept to deployment: Full stack proficiency in action."
