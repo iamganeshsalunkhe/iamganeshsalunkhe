@@ -1,4 +1,4 @@
-![logo](https://github.com/iamganeshsalunkhe/iamganeshsalunkhe/blob/main/WeB%20DEVELOPER.png)
+
 
 
 <h1 align="center">Hello my friend 🤝, I'm Ganesh Salunkhe</h1>
