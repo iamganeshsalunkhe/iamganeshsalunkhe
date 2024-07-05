@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **ganeshsalunkhe1998@gmail.com**
 
-- ⚡ Fun fact **Guess what? My CGPA in college was 7 (Thala for a reason)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_ganesh_1498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_ganesh_1498" height="30" width="40" /></a>
