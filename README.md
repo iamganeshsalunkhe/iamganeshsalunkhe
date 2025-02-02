@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **React, Node, Express, MySQL**
 
-- 🌱 I’m currently learning **Next.js, MongoDB, Microservice architecture**
+- 🌱 I’m currently learning **Next.js, MongoDB, Microservice architecture,Docker  **
 
 - 💬 Ask me about **JS/React/Node/Express/MySQL**
 
