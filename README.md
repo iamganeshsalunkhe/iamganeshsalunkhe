@@ -8,9 +8,9 @@
 
 <img  align="right" width="300" height="275" src="https://dancosta-fed.github.io/dancostaportfolio/gif/Animation-02.gif" alt="gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu1498&label=Profile%20views&color=0e75b6&style=flat" alt="ganu1498" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu1498&label=Profile%20views&color=0e75b6&style=flat" alt="99999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@_ganesh_1498" target="blank"><img src="https://img.shields.io/twitter/follow/@_ganesh_1498?logo=twitter&style=for-the-badge" alt="@_ganesh_1498" /></a> </p>
+<p align="left"> <a href="https://x.com/_iamganesh_" target="blank"><img src="https://img.shields.io/twitter/follow/@_ganesh_1498?logo=twitter&style=for-the-badge" alt="@_ganesh_1498" /></a> </p>
 
 - 🔭 I’m currently working on **React, Node, Express, MySQL**
 
