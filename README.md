@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **JS/React/Node/Express/MySQL**
 
-- 📫 How to reach me **ganeshsalunkhe1998@gmail.com**
+- 📫 How to reach me **iamganeshsalunkhe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
